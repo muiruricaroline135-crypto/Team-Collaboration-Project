@@ -1,2 +1,28 @@
-# Team-Collaboration-Project
-Students study  about ChatGPT.
+#Useful Tools for Students
+
+This repository has a mini knowledge base created by our team.Every person has contributed about useful tools that students use to learn and work better.
+
+---
+
+##Tools covered 
+-ChatGPT
+-Vs Code
+-canva
+
+---
+
+##VS code -Code Editor for programmers
+vs code -helps programmers write , test and debug codes effectively.
+
+###Why should students use Vs code:
+-it help one when you are working on web development.
+-Assists students when you need a simple text editor which has powerful extensins.
+-It is beginner friendly as it helps one code easier and faster in a neat way.
+
+###Features of Vs code
+-Highlghting of syntax
+-Github integration
+-Extension support.
+
+
+
