@@ -1,13 +1,19 @@
 #Useful Tools for Students
 
+A collaborative guide by:                                        1.Caroline Wanjiku
+2.John Buay
+3.Vivian Macua
+
+#Introduction:
+
 This repository has a mini knowledge base created by our team.Every person has contributed about useful tools that students use to learn and work better.
 
 ---
 
 ##Tools covered 
--ChatGPT
--Vs Code
--canva
+-ChatGPT (covered by Vivian Macua)
+-Vs Code(covered by Caroline Wanjiku)
+-canva(Covered by John Buay)
 
 ---
 
