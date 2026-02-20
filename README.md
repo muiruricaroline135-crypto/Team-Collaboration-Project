@@ -33,4 +33,27 @@ vs code -helps programmers write , test and debug codes effectively.
 - Extension support.
 
 
+## ChatGPT 
+ChatGPT is an AI tool that helps students learn,write,research and understand complex topics easily.
+
+### Why should students use it:
+-Explain difficults topics
+-Improves skills
+-Available anytime
+-Explains difficult cpncepts
+
+### How to get started
+  Step 1:Download the app
+     ~Go to Google play store
+     ~Search ChatGPT
+  Step 2:Create an Account
+    ~Sign up using Email
+  Step 3:Start chatting
+    ~Just type your question in the chat box and press send.
+
+ ### Helpful types of support
+ ~Brainstorming ideas
+ ~Project ideas
+ ~Brainstorming ideas
+ ~Resume and Linkedin help
 
