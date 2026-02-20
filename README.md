@@ -1,5 +1,11 @@
-# Useful Tools for Students
+# Useful Tools for Students 
 
+A collaborative guide by:
+1. Caroline Wanjiku
+2. John Buay
+3. Vivian Macua
+4. valentines
+ 
  A collaborative guide by: 
 1.Caroline Wanjiku
 2.John Buay
@@ -32,6 +38,18 @@ vs code -helps programmers write , test and debug codes effectively.
 - Github integration
 - Extension support.
 
+
+## Canva
+It is a graphic design tool that works to simplify the process of digital design.
+### Why it should be used 
+1. enables beginners and professionals to create high-quality graphics presentations and videos without complex software.
+2. It offers a massive library of templates, AI-powered tools, and easy collaboration features, saving significant time and effort for social media and marketing.
+### Features of Canva
+- AI-powered tools.
+- background removal. 
+- magic resize text-to-image.
+- collaboration capabilities.
+-  a brand kit for  consistent professional and rapid content creation. 
 
 ## ChatGPT 
 ChatGPT is an AI tool that helps students learn,write,research and understand complex topics easily.
