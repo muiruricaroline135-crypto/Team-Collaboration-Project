@@ -1,9 +1,15 @@
-# Useful Tools for Students
+# Useful Tools for Students 
 
-A collaborative guide by: 
+A collaborative guide by:
 1. Caroline Wanjiku
 2. John Buay
 3. Vivian Macua
+4. valentines
+ 
+ A collaborative guide by: 
+1.Caroline Wanjiku
+2.John Buay
+3.Vivian Macua
 4. Ladyrancia 
 
 # Introduction:
@@ -32,6 +38,7 @@ vs code -helps programmers write , test and debug codes effectively.
 - Github integration
 - Extension support.
 
+
 ## Canva
 It is a graphic design tool that works to simplify the process of digital design.
 ### Why it should be used 
@@ -43,4 +50,28 @@ It is a graphic design tool that works to simplify the process of digital design
 - magic resize text-to-image.
 - collaboration capabilities.
 -  a brand kit for  consistent professional and rapid content creation. 
+
+## ChatGPT 
+ChatGPT is an AI tool that helps students learn,write,research and understand complex topics easily.
+
+### Why should students use it:
+-Explain difficults topics
+-Improves skills
+-Available anytime
+-Explains difficult cpncepts
+
+### How to get started
+  Step 1:Download the app
+     ~Go to Google play store
+     ~Search ChatGPT
+  Step 2:Create an Account
+    ~Sign up using Email
+  Step 3:Start chatting
+    ~Just type your question in the chat box and press send.
+
+ ### Helpful types of support
+ ~Coding examples
+ ~Project ideas
+ ~Brainstorming ideas
+ ~Resume and Linkedin help
 
