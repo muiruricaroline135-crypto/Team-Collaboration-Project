@@ -3,6 +3,7 @@
 A collaborative guide by:                                        1.Caroline Wanjiku
 2.John Buay
 3.Vivian Macua
+4.valentines
 
 #Introduction:
 
@@ -14,10 +15,13 @@ This repository has a mini knowledge base created by our team.Every person has c
 -ChatGPT (covered by Vivian Macua)
 -Vs Code(covered by Caroline Wanjiku)
 -canva(Covered by John Buay)
+-
+
 
 ---
 
-##VS code -Code Editor for programmers
+## VS Code features and usage
+
 vs code -helps programmers write , test and debug codes effectively.
 
 ###Why should students use Vs code:
