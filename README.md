@@ -1,6 +1,7 @@
 #Useful Tools for Students
 
-A collaborative guide by:                                        1.Caroline Wanjiku
+A collaborative guide by: 
+1.Caroline Wanjiku
 2.John Buay
 3.Vivian Macua
 
