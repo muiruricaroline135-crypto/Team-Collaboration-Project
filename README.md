@@ -32,5 +32,15 @@ vs code -helps programmers write , test and debug codes effectively.
 - Github integration
 - Extension support.
 
-
+## Canva
+It is a graphic design tool that works to simplify the process of digital design.
+### Why it should be used 
+1. enables beginners and professionals to create high-quality graphics presentations and videos without complex software.
+2. It offers a massive library of templates, AI-powered tools, and easy collaboration features, saving significant time and effort for social media and marketing.
+### Features of Canva
+- AI-powered tools.
+- background removal. 
+- magic resize text-to-image.
+- collaboration capabilities.
+-  a brand kit for  consistent professional and rapid content creation. 
 
