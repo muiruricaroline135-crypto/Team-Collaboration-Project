@@ -52,7 +52,7 @@ ChatGPT is an AI tool that helps students learn,write,research and understand co
     ~Just type your question in the chat box and press send.
 
  ### Helpful types of support
- ~Brainstorming ideas
+ ~Coding examples
  ~Project ideas
  ~Brainstorming ideas
  ~Resume and Linkedin help
