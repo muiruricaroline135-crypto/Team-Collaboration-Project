@@ -13,10 +13,10 @@ This repository has a mini knowledge base created by our team.Every person has c
 ---
 
 ## Tools covered 
-- ChatGPT (covered by Vivian Macua)
-- Vs Code(covered by Caroline Wanjiku)
-- canva(Covered by John Buay)
-
+- ChatGPT (covered by ###Vivian Macua)
+- Vs Code(covered by ###Caroline Wanjiku)
+- canva(Covered by ###John Buay)
+- Notion ( covered by ###ladyrancia )
 ---
 
 ## VS code -Code Editor for programmers
