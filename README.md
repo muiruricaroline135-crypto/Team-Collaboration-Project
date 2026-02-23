@@ -4,7 +4,7 @@ A collaborative guide by:
 1. Caroline Wanjiku
 2. John Buay
 3. Vivian Macua
-4. valentines
+4. Ranciah Valentine
  
  A collaborative guide by: 
 1.Caroline Wanjiku
@@ -22,7 +22,7 @@ This repository has a mini knowledge base created by our team.Every person has c
 - ChatGPT (covered by Vivian Macua)
 - Vs Code(covered by Caroline Wanjiku)
 - canva(Covered by John Buay)
-- Notion ( covered by ladyrancia )
+- Github ( covered by ladyrancia )
 ---
 
 ## VS code -Code Editor for programmers
@@ -96,4 +96,40 @@ ChatGPT is an AI tool that helps students learn,write,research and understand co
  ~Project ideas
  ~Brainstorming ideas
  ~Resume and Linkedin help
+ 
+ ## GitHub
+
+**GitHub** is a web-based platform used for version control and collaboration.
+It allows developers and students to store their code online, track changes, and work together on projects efficiently.
+
+GitHub is built around Git, a version control system that helps manage code history and teamwork.
+
+### Why Students Should Use GitHub
+
+- It helps track changes in projects.
+- It allows collaboration through branches and pull requests.
+- It serves as an online portfolio for showcasing projects.
+- It teaches real-world software development workflows.
+- It provides free hosting for projects using GitHub Pages.
+
+### Key Features
+
+- **Repositories** – Store project files.
+- **Branches** – Work on new features without affecting the main project.
+- **Pull Requests** – Propose and review changes before merging.
+- **Issues** – Track bugs and tasks.
+- **GitHub Pages** – Host simple websites for free.
+
+### How to Get Started
+
+1. Create an account at https://github.com
+2. Create a new repository.
+3. Clone the repository to your computer.
+4. Make changes, commit, and push them.
+5. Use pull requests to collaborate with others.
+
+### Useful Links
+
+- https://docs.github.com
+- https://skills.github.com
 
