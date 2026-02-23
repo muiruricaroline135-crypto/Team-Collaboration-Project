@@ -1,3 +1,12 @@
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Tools Covered](#tools-covered)
+- [VS Code](#vs-code)
+- [Canva](#canva)
+- [ChatGPT](#chatgpt)
+- [GitHub](#github)
+
 # Useful Tools for Students 
 
 A collaborative guide by:
@@ -97,39 +106,54 @@ ChatGPT is an AI tool that helps students learn,write,research and understand co
  ~Brainstorming ideas
  ~Resume and Linkedin help
  
- ## GitHub
+## GitHub
 
-**GitHub** is a web-based platform used for version control and collaboration.
-It allows developers and students to store their code online, track changes, and work together on projects efficiently.
+**GitHub** is a web-based platform used for **version control and collaboration**.  
+It allows students and developers to store projects online, track changes, and work together efficiently.
 
-GitHub is built around Git, a version control system that helps manage code history and teamwork.
+GitHub uses **Git**, a version control system that helps save different versions of a project and makes teamwork easier. It is widely used in real-world software development, making it an important tool for students to learn.
 
 ### Why Students Should Use GitHub
 
-- It helps track changes in projects.
-- It allows collaboration through branches and pull requests.
-- It serves as an online portfolio for showcasing projects.
-- It teaches real-world software development workflows.
-- It provides free hosting for projects using GitHub Pages.
+- Keeps project files safe online
+- Tracks changes in assignments and projects
+- Supports teamwork using branches and pull requests
+- Helps students build an online portfolio
+- Organizes group work efficiently
+- Provides free website hosting using GitHub Pages
 
 ### Key Features
 
-- **Repositories** – Store project files.
-- **Branches** – Work on new features without affecting the main project.
-- **Pull Requests** – Propose and review changes before merging.
-- **Issues** – Track bugs and tasks.
-- **GitHub Pages** – Host simple websites for free.
+| Feature | Description |
+|--------|-------------|
+| **Repositories** | Store and organize project files |
+| **Branches** | Work on changes without affecting the main project |
+| **Pull Requests** | Review and merge team contributions |
+| **Commits** | Save project changes with messages |
+| **Issues** | Track problems and tasks |
+| **GitHub Pages** | Host simple websites for free |
+
+### How Students Use GitHub in Group Work
+
+1. The repository owner creates the project
+2. Team members clone the repository
+3. Each member creates their own branch
+4. Members edit their sections
+5. Changes are pushed to GitHub
+6. Pull requests are created
+7. The owner reviews and merges the work
 
 ### How to Get Started
 
 1. Create an account at https://github.com
-2. Create a new repository.
-3. Clone the repository to your computer.
-4. Make changes, commit, and push them.
-5. Use pull requests to collaborate with others.
+2. Join or create a repository
+3. Clone the repository
+4. Edit project files
+5. Commit and push changes
+6. Create a pull request
 
 ### Useful Links
 
 - https://docs.github.com
 - https://skills.github.com
-
+- https://guides.github.com/activities/hello-world/
