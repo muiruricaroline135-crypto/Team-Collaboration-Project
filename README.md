@@ -38,6 +38,24 @@ vs code -helps programmers write , test and debug codes effectively.
 - Github integration
 - Extension support.
 
+ VS Code Resources
+Here are useful resources to help you install, set up, and use Visual Studio Code efficiently:
+VS Code Official Website (Download & Info)
+https://code.visualstudio.com/�
+→ Download VS Code and learn about its main features.
+VS Code Documentation
+https://code.visualstudio.com/docs�
+→ Official guides on setup, extensions, debugging, and shortcuts.
+VS Code Beginner Tutorial (freeCodeCamp)
+https://www.freecodecamp.org/news/visual-studio-code-for-beginners/�
+→ Easy beginner guide to get started with VS Code.
+VS Code Keyboard Shortcuts (Cheat Sheet)
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf�
+→ Helpful shortcuts to code faster.
+Best VS Code Extensions for Web Development
+https://www.freecodecamp.org/news/best-visual-studio-code-extensions/�
+→ Recommended extensions for HTML, CSS, and JavaScript.
+
 
 ## Canva
 It is a graphic design tool that works to simplify the process of digital design.
