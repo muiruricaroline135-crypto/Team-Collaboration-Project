@@ -6,7 +6,6 @@
 - [Canva](#canva)
 - [ChatGPT](#chatgpt)
 - [GitHub](#github)
-- [Notion](#notion)
 
 # Useful Tools for Students 
 
@@ -159,42 +158,3 @@ GitHub uses **Git**, a version control system that helps save different versions
 - https://skills.github.com
 - https://guides.github.com/activities/hello-world/
 
-## Notion
-
-**Notion** is an all-in-one productivity tool that helps students organize notes, assignments, schedules, and projects in one place. It combines note-taking, task management, and planning tools into a single platform.
-
-Notion is useful for students because it helps keep school work organized and easy to access from any device.
-
-### Why Students Should Use Notion
-
-- Helps organize notes and assignments
-- Keeps study schedules in one place
-- Allows creation of to-do lists
-- Makes group work easier with shared pages
-- Works on both phone and computer
-- Helps students stay organized and productive
-
-### Key Features
-
-| Feature | Description |
-|--------|-------------|
-| **Notes** | Write and organize class notes |
-| **To-do Lists** | Track assignments and tasks |
-| **Templates** | Ready-made layouts for study planning |
-| **Pages** | Organize information into sections |
-| **Collaboration** | Share notes with classmates |
-| **Cloud Sync** | Access your work from any device |
-
-### How to Get Started
-
-1. Go to https://www.notion.so
-2. Create a free account
-3. Create a new page
-4. Add notes and tasks
-5. Use templates to organize your work
-
-### Useful Links
-
-- https://www.notion.so
-- https://www.notion.so/help
-- https://www.notion.so/templates
