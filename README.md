@@ -87,26 +87,30 @@ It is a graphic design tool that works to simplify the process of digital design
 ChatGPT is an AI tool that helps students learn,write,research and understand complex topics easily.
 
 ### Why should students use it:
--Explain difficults topics
--Improves skills
--Available anytime
--Explains difficult cpncepts
+- Explain difficults topics
+- Improves skills
+- Available anytime
+- Explains difficult cpncepts
 
 ### How to get started
   Step 1:Download the app
-     ~Go to Google play store
-     ~Search ChatGPT
+     - Go to Google play store
+     - Search ChatGPT
   Step 2:Create an Account
-    ~Sign up using Email
+    - Sign up using Email
   Step 3:Start chatting
-    ~Just type your question in the chat box and press send.
+    - Just type your question in the chat box and press send.
 
  ### Helpful types of support
- ~Coding examples
- ~Project ideas
- ~Brainstorming ideas
- ~Resume and Linkedin help
-
+ - Coding examples
+ - Project ideas
+ - Brainstorming ideas
+ - Resume and Linkedin help
+ 
+### Features of ChatGPT
+- Offline note-saving feature
+- Study mode{focused responses for academic learning}
+- Role play
  
 ## GitHub
 
